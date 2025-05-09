@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Twitter",
+        "link": "https://twitter.com/",
+        "image": "images/social/twitter.svg"
+    },
+    {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/",
+        "image": "images/social/linkedin.svg"
+    },
+    {
+        "name": "WeChat",
+        "link":"https://www.linkedin.com/",
+        "image": "images/social/wechat.svg"
+    }
+]
