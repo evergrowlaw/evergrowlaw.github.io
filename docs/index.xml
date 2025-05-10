@@ -6,83 +6,55 @@
     <description>Recent content in Homepage on Evergrow Law</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Dec 2018 13:44:55 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jeane Zhang</title>
       <link>/team/founder1/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       <guid>/team/founder1/</guid>
-      <description>&lt;p&gt;Attorney Jeane Zhang brings over 20 years of legal experience advising corporations, startups, and entrepreneurs on complex legal matters.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Attorney Jeane Zhang brings over 20 years of legal experience advising corporations, startups, and entrepreneurs on complex legal matters.&lt;/p&gt;&#xA;&lt;p&gt;Known for her collaborative approach with executive and engineering teams, she supports clients throughout the product lifecycle—from concept to commercialization. Jeane has extensive experience developing robust IP portfolios and global patent strategies, helping companies across Silicon Valley and China navigate high-stakes legal challenges. A frequent speaker on intellectual property topics, her expertise spans patents, trademarks, copyrights, portfolio management, legal strategy, export control, and regulatory compliance.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Accounting</title>
-      <link>/services/accounting/</link>
+      <title>Service 1</title>
+      <link>/services/service1/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>/services/accounting/</guid>
+      <guid>/services/service1/</guid>
       <description>&lt;p&gt;Financial accounting (or financial accountancy) is the field of accounting concerned with the &lt;strong&gt;summary, analysis and reporting&lt;/strong&gt; of financial transactions related to a business.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Business Advisory</title>
-      <link>/services/business-advisory/</link>
+      <title>Service 2</title>
+      <link>/services/service2/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
-      <guid>/services/business-advisory/</guid>
+      <guid>/services/service2/</guid>
       <description>Business Advisory is a specialized account service that offers expert guidance and strategic support to businesses.</description>
     </item>
     <item>
-      <title>Founder-2</title>
-      <link>/team/founder2/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      <guid>/team/founder2/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Attorney-1</title>
-      <link>/team/employee1/</link>
-      <pubDate>Thu, 20 Dec 2018 13:44:30 +1000</pubDate>
-      <guid>/team/employee1/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Attorney-2</title>
-      <link>/team/employee2/</link>
-      <pubDate>Thu, 20 Dec 2018 13:44:23 +1000</pubDate>
-      <guid>/team/employee2/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Business Sales</title>
-      <link>/services/business-sales/</link>
+      <title>Service 3</title>
+      <link>/services/service3/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
-      <guid>/services/business-sales/</guid>
+      <guid>/services/service3/</guid>
       <description>&lt;p&gt;Business Sales refers to the process of selling a company or its assets to interested buyers, often involving the transfer of ownership and control.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Attorney-3</title>
-      <link>/team/employee3/</link>
-      <pubDate>Thu, 20 Dec 2018 13:44:55 +1000</pubDate>
-      <guid>/team/employee3/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mergers</title>
-      <link>/services/mergers/</link>
+      <title>Service 4</title>
+      <link>/services/servers4/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
-      <guid>/services/mergers/</guid>
+      <guid>/services/servers4/</guid>
       <description>&lt;p&gt;Mergers involve the combination of two or more companies into a single entity, typically aimed at achieving synergies, expanding market presence, or enhancing competitive advantages.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Superannuation</title>
-      <link>/services/superannuation/</link>
+      <title>Service 5</title>
+      <link>/services/service5/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
-      <guid>/services/superannuation/</guid>
+      <guid>/services/service5/</guid>
       <description>&lt;p&gt;We provide expert guidance on setting up and structuring superannuation funds, ensuring compliance with regulatory requirements, and implementing tax-efficient strategies.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Tax Preparation</title>
-      <link>/services/tax-preperation/</link>
+      <title>Service 6</title>
+      <link>/services/service6/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>/services/tax-preperation/</guid>
+      <guid>/services/service6/</guid>
       <description>Our tax preparation accounting service offers a reliable and efficient solution for individuals and businesses seeking expert assistance in managing their tax obligations.</description>
     </item>
     <item>
@@ -90,7 +62,7 @@
       <link>/about/</link>
       <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
       <guid>/about/</guid>
-      <description>&lt;p&gt;Lorem markdownum aequalis strigis. &lt;em&gt;Saetigeri iubeas&lt;/em&gt;, vultu huic alvum nondum&#xA;de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae&#xA;crimen habet Priamum nec.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/smartworks-coworking-cW4lLTavU80-unsplash.jpg&#34; alt=&#34;About Us&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;ne-verba-patulosque-numen-vix-libet&#34;&gt;Ne verba patulosque numen vix libet&lt;/h2&gt;&#xA;&lt;p&gt;Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.&#xA;Ignibus inpatiens explorat, te tegens &lt;em&gt;ferro nocere haud&lt;/em&gt;, et Dulichium tui&#xA;male! Quo sed &lt;a href=&#34;#vexant-achivi&#34;&gt;fuit flexit et&lt;/a&gt; hic die solido, gloria?&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Cum det dixit Parcarum qui spemque est&lt;/li&gt;&#xA;&lt;li&gt;Exit ex huic&lt;/li&gt;&#xA;&lt;li&gt;Quod consiste agitataque claustraque vicina videt lacertis&lt;/li&gt;&#xA;&lt;li&gt;Loquor videt&lt;/li&gt;&#xA;&lt;li&gt;Ardua non igne caelesti coniugis cognovi diversorum&lt;/li&gt;&#xA;&lt;li&gt;Per nunc pariterque saeva vindicet&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco &lt;em&gt;vati&lt;/em&gt;&#xA;dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!&#xA;Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus&#xA;esse iam feres mortis Plurima.&lt;/p&gt;</description>
+      <description>&lt;p&gt;EVERGROW Law LLP is a boutique corporate and intellectual property law firm dedicated to serving innovative startups and entrepreneurs. We provide specialized legal services across corporate transactions, regulatory compliance, and all aspects of intellectual property. With deep business insight and legal expertise, our team delivers strategic, cost-effective solutions to support clients through every stage of growth—from early formation to global expansion. Our goal is to empower visionary businesses with practical legal guidance that drives long-term success.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
