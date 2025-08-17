@@ -7,4 +7,4 @@ EVERGROW Law LLP is a boutique corporate and intellectual property law firm dedi
 
 With deep business insight and legal expertise, our team delivers strategic, cost-effective solutions to support clients through every stage of growth—from early formation to global expansion. Our goal is to empower visionary businesses with practical legal guidance that drives long-term success.
 
-![About Us](/images/smartworks-coworking-cW4lLTavU80-unsplash.jpg)
+![About Us](/images/john-unsplash.jpg)
