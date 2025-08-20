@@ -53,7 +53,7 @@ publishDir = "docs"
     summary_large_truncate = 120 # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
-    copyright_text = 'some copyright text'
+    copyright_text = '2025 Evergrow Law. All rights reserved.'
 
 [menu]
   # Main Menu
@@ -92,3 +92,8 @@ publishDir = "docs"
     name = "Contact"
     url = "/contact/"
     weight = 2
+
+[markup]
+  [goldmark]
+    [renderer]
+      unsafe = true

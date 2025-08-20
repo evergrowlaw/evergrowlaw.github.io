@@ -6,14 +6,28 @@
     <description>Recent content in Homepage on Evergrow Law</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 12:33:46 +1000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Corporate Law</title>
+      <link>/services/service1/</link>
+      <pubDate>Sun, 18 May 2025 12:33:46 +1000</pubDate>
+      <guid>/services/service1/</guid>
+      <description>&lt;p&gt;We offers sophisticated legal counsel across the full spectrum of corporate law matters.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Jeane Zhang</title>
       <link>/team/founder1/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       <guid>/team/founder1/</guid>
-      <description>&lt;p&gt;Attorney Jeane Zhang brings over 20 years of legal experience advising corporations, startups, and entrepreneurs on complex legal matters.&lt;/p&gt;&#xA;&lt;p&gt;Known for her collaborative approach with executive and engineering teams, she supports clients throughout the product lifecycle—from concept to commercialization. Jeane has extensive experience developing robust IP portfolios and global patent strategies, helping companies across Silicon Valley and China navigate high-stakes legal challenges. A frequent speaker on intellectual property topics, her expertise spans patents, trademarks, copyrights, portfolio management, legal strategy, export control, and regulatory compliance.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Attorney Jeane Zhang brings over 20 years of legal experience advising corporations, startups, and entrepreneurs.&lt;/p&gt;&#xA;&lt;p&gt;Known for her collaborative approach with executive and engineering teams, she supports clients throughout the product lifecycle—from concept to commercialization. Jeane has extensive experience developing robust IP portfolios and global patent strategies, helping companies across Silicon Valley and China navigate high-stakes legal challenges. A frequent speaker on intellectual property topics, her expertise spans patents, trademarks, copyrights, portfolio management, legal strategy, export control, and regulatory compliance.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nonprofit Organizations</title>
+      <link>/services/service2/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      <guid>/services/service2/</guid>
+      <description>In addition, we provide tailored legal services to nonprofit organizations, including entity formation, applications for tax-exempt status, governance design, and regulatory compliance.</description>
     </item>
     <item>
       <title>Patent Prosecution &amp; Strategy</title>
@@ -48,7 +62,7 @@
       <link>/contact/</link>
       <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
       <guid>/contact/</guid>
-      <description>&lt;p&gt;Have questions about patent protection, enforcement, or other intellectual property matters? Our team at Evergrow Law is ready to assist you. Please use the information below to get in touch, and we&amp;rsquo;ll respond promptly to your inquiry.&lt;/p&gt;&#xA;&lt;p&gt;Email:&lt;/p&gt;&#xA;&lt;p&gt;Tel:&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Day&lt;/th&gt;&#xA;          &lt;th&gt;Opening Hours&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Monday&lt;/td&gt;&#xA;          &lt;td&gt;9:00am - 5:00pm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tuesday&lt;/td&gt;&#xA;          &lt;td&gt;9:00am - 5:00pm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Wednesday&lt;/td&gt;&#xA;          &lt;td&gt;9:00am - 5:00pm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Thursday&lt;/td&gt;&#xA;          &lt;td&gt;9:00am - 5:00pm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Friday&lt;/td&gt;&#xA;          &lt;td&gt;9:00am - 5:00pm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Saturday&lt;/td&gt;&#xA;          &lt;td&gt;Closed&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Sunday&lt;/td&gt;&#xA;          &lt;td&gt;Closed&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+      <description>&lt;p&gt;Have questions about patent protection, enforcement, or other intellectual property matters? Our team at Evergrow Law is ready to assist you. Please use the information below to get in touch, and we&amp;rsquo;ll respond promptly to your inquiry.&lt;/p&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:jeane@evergrowlaw.com&#34;&gt;jeane@evergrowlaw.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Tel: 650-518-8045&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

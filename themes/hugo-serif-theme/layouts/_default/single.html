@@ -5,8 +5,41 @@
   <div class="row justify-content-start">
     <div class="col-12 col-md-8">
       <h1 class="title">{{.Title}}</h1>
-
+      
       <div class="content">{{.Content}}</div>
+      {{if .Params.show_form}}
+              <form action="https://formspree.io/f/mqalvblr" method="POST" class="mt-4">
+            
+            <div style="margin-bottom: 15px;">
+                <label for="name" style="display: block; margin-bottom: 5px;">
+                    Your Name:
+                </label>
+                <input type="text" id="name" name="name" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;">
+            </div>
+            
+            <div style="margin-bottom: 15px;">
+                <label for="email" style="display: block; margin-bottom: 5px;">
+                    Your Email:
+                </label>
+                <input type="email" id="email" name="email" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;">
+            </div>
+            
+            <div style="margin-bottom: 15px;">
+                <label for="message" style="display: block; margin-bottom: 5px;">
+                    Message:
+                </label>
+                <textarea id="message" name="message" rows="6" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;"></textarea>
+            </div>
+            
+            <div>
+                <button type="submit" style="padding: 10px 20px; border: none; background-color: #333; color: white; border-radius: 4px; cursor: pointer;">
+                    Submit
+                </button>
+            </div>
+            <input type="hidden" name="_next" value="/thank_you/">
+        </form>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd4Nioxd-18Alm3v5ewAIJalfHJ2slwfirPUw-GFLSuRYtxgg/viewform?embedded=true" width=100% height=800 frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+      {{end}}
     </div>
   </div>
 </div>
